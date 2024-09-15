@@ -1,5 +1,6 @@
 //Hemanthsai Peddasani
-// Samuel Bevans
+// Samuel Bevans :)
 //Ren Moyer 
 //Isaac Donelan - local repo commit
 // Wania Chaudary
+// Isaiah Steele
